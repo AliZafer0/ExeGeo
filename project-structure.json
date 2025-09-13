@@ -1,0 +1,161 @@
+﻿[
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\public"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\vendor"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\.htaccess"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\composer.json"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\index.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\project-structure.json"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\README.md"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Config"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Controllers"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Core"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Helpers"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Models"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Views"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Config\\Config.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Controllers\\HomeController.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Controllers\\PlaceController.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Controllers\\ZoneController.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Core\\Database.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Core\\Router.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Models\\Teachers.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Views\\Error"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Views\\home"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Views\\Partials"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Views\\Error\\404.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Views\\home\\index.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\App\\Views\\Partials\\navbar.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\public\\assets"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\public\\uploads"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\public\\.htaccess"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\public\\index.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\public\\assets\\css"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\public\\assets\\images"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\public\\assets\\js"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\public\\assets\\css\\app.css"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\public\\assets\\images\\.gitkeep"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\public\\assets\\js\\app.js"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\public\\uploads\\documents"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\public\\uploads\\images"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\public\\uploads\\videos"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\public\\uploads\\documents\\.gitkeep"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\public\\uploads\\images\\.gitkeep"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\public\\uploads\\videos\\.gitkeep"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\vendor\\composer"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\vendor\\autoload.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\vendor\\composer\\autoload_classmap.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\vendor\\composer\\autoload_namespaces.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\vendor\\composer\\autoload_psr4.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\vendor\\composer\\autoload_real.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\vendor\\composer\\autoload_static.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\vendor\\composer\\ClassLoader.php"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\vendor\\composer\\LICENSE"
+    },
+    {
+        "FullName":  "C:\\webdev\\exegeo\\vendor\\composer\\platform_check.php"
+    }
+]
